@@ -1,0 +1,11 @@
+# _Descrição:_
+
+_A criação do repositório foi realizada utilizando as ferramentas Git/GitHub conforme exemplificado na plataforma DIO_
+
+# _Comandos Utilizados:_ :keyboard:
+
+_git clone:_ comando utilizado para trazer o endereço web do repositório criado no GitHub, afim de vinculá-lo à uma máquina local e proporcionar a integração entre ambos.
+
+_git add .:_ comando utilizado para adicionar ao git, todas alterações realizadas no repositório local como por exemplo a criação de novas pastas. 
+
+_git commit -m:_ comando utilizado para homologar remotamente as alterações realizadas na máquina local, inserindo um texto à essa funcionalidade. Esse comando é utilizado como passo seguinte ao comando mencionado anteriormente.
